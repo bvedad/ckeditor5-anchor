@@ -1,0 +1,8 @@
+{
+	"Unanchor": "Toolbar button tooltip for the Unanchor feature.",
+	"Anchor": "Toolbar button tooltip for the Anchor feature.",
+	"Anchor name": "Label for the input in the Anchor name editing balloon.",
+	"Anchor image": "Label for the image anchor button.",
+	"Edit anchor": "Button opening the Anchor name editing balloon.",
+	"This anchor has no name": "Label explaining that a anchor has no URL set (the URL is empty)."
+}

@@ -1,0 +1,41 @@
+# Copyright (c) 2003-2020, CKSource - Frederico Knabben. All rights reserved.
+#
+#                                     !!! IMPORTANT !!!
+#
+#         Before you edit this file, please keep in mind that contributing to the project
+#                translations is possible ONLY via the Transifex online service.
+#
+#         To submit your translations, visit https://www.transifex.com/ckeditor/ckeditor5.
+#
+#                   To learn more, check out the official contributor's guide:
+#     https://ckeditor.com/docs/ckeditor5/latest/framework/guides/contributing/contributing.html
+#
+msgid ""
+msgstr ""
+"Language: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+msgctxt "Toolbar button tooltip for the Unanchor feature."
+msgid "Unanchor"
+msgstr "Unanchor"
+
+msgctxt "Toolbar button tooltip for the Anchor feature."
+msgid "Anchor"
+msgstr "Anchor"
+
+msgctxt "Label for the input in the Anchor name editing balloon."
+msgid "Anchor name"
+msgstr "Anchor name"
+
+msgctxt "Label for the image anchor button."
+msgid "Anchor image"
+msgstr "Anchor image"
+
+msgctxt "Button opening the Anchor name editing balloon."
+msgid "Edit anchor"
+msgstr "Edit anchor"
+
+msgctxt "Label explaining that a anchor has no URL set (the URL is empty)."
+msgid "This anchor has no name"
+msgstr "This anchor has no name"
